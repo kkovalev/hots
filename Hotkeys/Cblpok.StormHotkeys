@@ -25,7 +25,8 @@ UIEditorSize1920x1080=
 [Commands]
 
 [QuickCastModes]
-ZeratulSingularitySpike=OnUp
+ZeratulBlinkStorm=OnUp
+FlashoftheStorms=OnUp
 TinkerFocusTurrets=On
 LucioTargetingAttackClick=On
 ZagaraDevouringMaw=OnUp
@@ -116,8 +117,8 @@ ZagaraBanelingBarrage=OnUp
 ZagaraSummonCreepTumor=OnUp
 ZagaraSummonHydralisk=OnUp
 ZagaraSummonNydusWorm=OnUp
-ZeratulBlinkStorm=OnUp
-FlashoftheStorms=OnUp
+attack=On
+ZeratulSingularitySpike=OnUp
 JunkratFragLauncher=OnUp
 JunkratRocketRide=On
 JunkratConcussionMine=OnUp
@@ -146,7 +147,7 @@ VarianBannerOfDalaran=OnUp
 VarianBannerOfIronforge=OnUp
 VarianColossusSmash=OnUp
 VarianShatteringThrow=OnUp
-VarianLionsFang=OnUp
+VarianLionsFang=On
 VarianBannerOfStormwind=OnUp
 ValeeraEviscerate=OnUp
 ValeeraAmbush=OnUp
@@ -156,7 +157,6 @@ ValeeraGarrote=OnUp
 LucioPushOff=On
 LucioSoundwave=OnUp
 LucioHighFive=OnUp
-DVaAttack=On
 DVaMicroMissiles=OnUp
 AmazonBlindingLight=OnUp
 AmazonBallLightning=On
