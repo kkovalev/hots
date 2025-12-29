@@ -23,6 +23,4 @@ soundambience=false
 soundglobal=true
 swapctrlcmd=true
 systemutilitykeysdisabled=false
-targetinfopanelpositionx=-2.500000
-targetinfopanelpositiony=-2.000000
 winkeydisabled=false
